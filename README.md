@@ -1,7 +1,7 @@
 # User List — My first Vue.js project
 
 ## Preview
-![Preview](https://github.com/5antos/user-list/blob/main/src/assets/website-preview.mp4)
+![Preview](https://github.com/5antos/user-list/blob/main/src/assets/website-preview.gif)
 
 ## Project setup
 ```
